@@ -1,0 +1,25 @@
+<html>
+
+<body>
+    <p>
+        <a href="about">Hyperlink Example</a>
+    </p>
+    <p>
+        <a href="http:/www.google.com/">Click here</a>
+    </p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hyperlink Example</title>
+</head>
+
+<body>
+    <p>Click the link below:</p>
+    <a href="https://www.example.com">Visit Example.com</a>
+</body>
+
+</html>
